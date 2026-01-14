@@ -14,13 +14,14 @@ A Python project that allows users to manage application settings such as theme,
 python build_a_user_configuration_manager.py
 ```
 ## Example Output
+```
 Setting 'theme' added with value 'dark' successfully!
 Setting 'volume' updated to 'low' successfully!
 Setting 'notifications' deleted successfully!
 Current User Settings:
 Theme: dark
 Volume: low
-
+```
 ## Skills Demonstrated
 - Python
 - Dictionaries and Tuples
