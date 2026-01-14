@@ -1,2 +1,20 @@
-# user-configuration-manager
-Python project to manage user settings: add, update, delete, and view settings
+# User Configuration Manager
+
+A Python project that allows users to manage application settings such as theme, volume, and notifications.
+
+## Features
+- Add new user settings
+- Update existing settings
+- Delete settings
+- View all current settings
+- Automatic lowercase conversion for keys and values
+
+## How to Run
+```bash
+python build_a_user_configuration_manager.py
+
+## Skills Demonstrated
+- Python
+- Dictionaries and Tuples
+- Conditional Logic
+- String Formatting
